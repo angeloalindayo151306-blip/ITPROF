@@ -1,0 +1,16 @@
+{
+  "name": "library-books-api",
+  "version": "1.0.0",
+  "description": "RESTful Books API built with Express.js (ITPE101 Laboratory Activity)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "type": "commonjs"
+}
